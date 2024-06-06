@@ -5,12 +5,14 @@ Chat Room Application
 This is a simple chat room application using Python's socket and threading libraries for networking and concurrency, and tkinter for the GUI. The application includes both a server and a client. Multiple clients can connect to the server and communicate with each other in real-time.
 
 **Features**
+
 Multi-client Support: Multiple clients can join the chat room and communicate with each other.
 Broadcast Messages: Messages from any client are broadcasted to all connected clients.
 User Notifications: The server notifies all clients when a new user joins or leaves the chat room.
 Graphical User Interface: The client application has a user-friendly GUI for sending and receiving messages.
 
 **Requirements**
+
 Python 3.x
 tkinter library (comes pre-installed with Python)
 threading library (comes pre-installed with Python)
