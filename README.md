@@ -31,6 +31,7 @@ socket library (comes pre-installed with Python)
 _Server_
 
 Run the server script: python server.py
+
 _Client_
 
 Run the client script: python client1.py and python client2.py for CLI on separate terminals. For GUI, run python GUI_client3.py and python GUI_client4.py on separate terminals
